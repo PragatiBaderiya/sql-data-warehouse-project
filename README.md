@@ -1,4 +1,4 @@
-#  SQL Data Warehouse Project
+#  Data Warehouse And Analytics Project
 
 Building a modern data warehouse using SQL Server, including ETL processes, data modeling, and analytics.
 
@@ -6,7 +6,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
-**🚀 Project Requirements**
+# 🚀 Project Requirements
 1. Building the Data Warehouse (Data Engineering)
 Objective
 
@@ -37,7 +37,7 @@ Objective
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-**📄 License**
+# 📄 License
 
 This project is licensed under the MIT License.
 You are free to use, modify, and share this project with proper attribution.
